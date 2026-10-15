@@ -1,6 +1,6 @@
 -- 성윤HUB Main
 
-local baseUrl = "https://raw.githubusercontent.com/유저명/sungyunhub/main/"
+local baseUrl = "https://raw.githubusercontent.com/twince0913-ui/sungyunhub/main/"
 
 local Utils = loadstring(game:HttpGet(baseUrl .. "utils.lua"))()
 local combatMod = loadstring(game:HttpGet(baseUrl .. "modules/combat.lua"))()
